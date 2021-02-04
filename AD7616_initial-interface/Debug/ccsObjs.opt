@@ -1,0 +1,1 @@
+"./AD7616_initial-interface.obj" "./startup_ccs.obj" "./utils/uartstdio.obj" "../uart_echo_ccs.cmd" -llibc.a -l"C:/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib" 
